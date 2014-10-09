@@ -1,0 +1,1 @@
+I'm trying to create a simple generic game using javascript.
